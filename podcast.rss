@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>A Course in the Pali Language</title>
+    <author>Bhikkhu Bodhi</author>
+    <itunes:author>Bhikkhu Bodhi</itunes:author>\
+    <itunes:category text="Language" />
+    <image>
+      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
+      <title>A Course in the Pali Language</title>
+      <link>https://rodydavis.github.io/podcast-player/</link>
+    </image>
+    <item>
+      <author>Bhikkhu Bodhi</author>
+      <itunes:author>Bhikkhu Bodhi</itunes:author>
+      <title>Lecture 1</title>
+      <pubDate>Mon, 01 Jan 2008 00:00:00 GMT</pubDate>
+      <enclosure url="https://bodhimonastery.org/courses/Pali/MP3/Pali%2001%20Lesson%20I%20Lecture%201.mp3" type="audio/mpeg" length="15170918" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+        <![CDATA[
+          <p>First lecture in the series</p>
+        ]]>
+        </description>
+    </item>
+</channel>
+</rss>
